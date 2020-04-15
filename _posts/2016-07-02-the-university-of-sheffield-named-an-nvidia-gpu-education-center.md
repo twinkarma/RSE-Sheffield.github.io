@@ -14,7 +14,7 @@ type: text
 
 This week I am very pleased to announce that the University of Sheffield has been awarded the status of an NVIDIA CUDA Education Centre.
 
-The faculty of Engineering has featured this in its latest [faculty newsletter](https://www.sheffield.ac.uk/faculty/engineering/news/nvidia-1.587003) and the Department of Computer Science has published more details in a [news feature](https://www.sheffield.ac.uk/dcs/latest-news/nvidia-1.587214).
+The faculty of Engineering has featured this in its latest [faculty newsletter](https://www.sheffield.ac.uk/faculty/engineering/news/nvidia-1.587003).
 
 
 ## But what does this mean to the RSE community at Sheffield and beyond?
@@ -35,10 +35,8 @@ Some of the other benefits of being an NVIDIA Eduction (and also an NVIDIA Resea
 
 ## Other Training Opportunities
 
-Through [RSE Sheffield](/) and [GPUComputing@Sheffield](http://gpucomputing.sites.sheffield.ac.uk) shorter courses for GPU computing are also available. I will be announcing dates for 1-2 day CUDA courses shortly and am working with IT Services in developing new Python CUDA material. 
+Through [RSE Sheffield](/) and [GPUComputing@Sheffield](https://gpucomputing.shef.ac.uk/) shorter courses for GPU computing are also available. I will be announcing dates for 1-2 day CUDA courses shortly and am working with IT Services in developing new Python CUDA material. 
 
 For those that missed the sign-up, we are also running a two day deep learning with GPUs course in July. The places for this were in high demand and filled up within a day. This course will be repeated in due time and material from the course will be made available off-line.
 
 Other GPU announcements will be made on both this RSE blog and on the [GPUComputing@Sheffield mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/gpucomputing). Expect some exciting new hardware and software once the Iceberg upgrade is complete (shortly).
-
-Paul
